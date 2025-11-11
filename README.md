@@ -42,8 +42,7 @@ This dashboard helps management identify high-performing branches, assess risk, 
 | **Data Visualization** | Power BI |
 | **Data Cleaning & Modeling** | Excel, Power Query |
 | **Calculations & KPIs** | DAX (Data Analysis Expressions) |
-| **Database** | SQL |
-| **Automation (Optional)** | UiPath for data extraction and report refresh |
+
 
 ---
 

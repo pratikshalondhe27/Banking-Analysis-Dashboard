@@ -78,8 +78,7 @@ This dashboard helps management identify high-performing branches, assess risk, 
 
 ## 📂 Files Included  
 
-- `Banking_Loan_Analysis.pbix` → Power BI dashboard file  
-- `bank_loan_data.xlsx` → Cleaned dataset used for dashboard  
+- `Banking_Loan_Analysis.pbix` → Power BI dashboard file   
 - `README.md` → Project overview and documentation  
 - `Report Preview1.png` & `Report Preview2.png` → Dashboard visuals  
 
